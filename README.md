@@ -1,8 +1,16 @@
-# React + Vite
+<p align="center">
+  <img src="https://freepngimg.com/thumb/jobs/5-2-jobs-picture-thumb.png" alt="Proje Logosu" width="200" height="200">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# İş İlanları Uygulaması
 
-Currently, two official plugins are available:
+Bu proje, Redux Toolkit kullanılarak geliştirilmiş, iş ilanları üzerinde filtreleme, sıralama ve arama gibi özelliklere sahip özel bir uygulamadır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="./job.gif" />
+
+## Kullanılan Teknolojiler
+
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [JSON Server](https://github.com/typicode/json-server)

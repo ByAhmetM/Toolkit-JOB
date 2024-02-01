@@ -19,15 +19,6 @@
       "date": "10/2/2020"
     },
     {
-      "id": 5,
-      "position": "Product Manager",
-      "company": "Amazon",
-      "location": "Seattle",
-      "status": "Mülakat",
-      "type": "Yarı Zamanlı",
-      "date": "3/10/2024"
-    },
-    {
       "id": 6,
       "position": "Data Scientist",
       "company": "Microsoft",
@@ -134,6 +125,24 @@
       "type": "Uzaktan",
       "id": "8a752189-0a1f-45fb-9423-acae5a0c888b",
       "date": "07.01.2024"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Ünsallar",
+      "location": "Çankırı",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "7e69b743-24fd-499f-8c5c-fa6f730bea77",
+      "date": "01.02.2024"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Ünsal Holding",
+      "location": "Çankırı",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "id": "255a7208-7051-4707-9f60-8f14d8809ce9",
+      "date": "01.02.2024"
     }
   ]
 }
