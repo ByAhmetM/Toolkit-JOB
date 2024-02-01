@@ -6,7 +6,7 @@
 
 Bu proje, Redux Toolkit kullanılarak geliştirilmiş, iş ilanları üzerinde filtreleme, sıralama ve arama gibi özelliklere sahip özel bir uygulamadır.
 
-<img src="./job.gif" />
+<img src="./job2.gif" />
 
 ## Kullanılan Teknolojiler
 
